@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kaushikdas0621.github.io/static/css/main.c4f7281f.css",
-    "main.js": "/kaushikdas0621.github.io/static/js/main.ccf884ab.js",
+    "main.css": "/kaushikdas0621.github.io/static/css/main.48152f57.css",
+    "main.js": "/kaushikdas0621.github.io/static/js/main.9dbce102.js",
     "index.html": "/kaushikdas0621.github.io/index.html",
-    "main.c4f7281f.css.map": "/kaushikdas0621.github.io/static/css/main.c4f7281f.css.map",
-    "main.ccf884ab.js.map": "/kaushikdas0621.github.io/static/js/main.ccf884ab.js.map"
+    "main.48152f57.css.map": "/kaushikdas0621.github.io/static/css/main.48152f57.css.map",
+    "main.9dbce102.js.map": "/kaushikdas0621.github.io/static/js/main.9dbce102.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4f7281f.css",
-    "static/js/main.ccf884ab.js"
+    "static/css/main.48152f57.css",
+    "static/js/main.9dbce102.js"
   ]
 }
